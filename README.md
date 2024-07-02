@@ -1,6 +1,6 @@
 <div align=center>
   
-# 💻AN SEONUK(Elctronic Engineer)💻
+# 💻AN SEONUK(Electronic Engineer)💻
 <br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Myeongji University-003778?style=flat&logo=interactiondesignfoundation&logoColor=white"/></a>
 </div>
