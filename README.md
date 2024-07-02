@@ -1,10 +1,20 @@
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20LionelSeonuk%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Electronic_Engineer&descAlign=60&descAlignY=50)
+<div align=center>
+  
+# 💻AN SEONUK(Elctronic Engineer)💻
+<br>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Myeongji University-003778?style=flat&logo=interactiondesignfoundation&logoColor=white"/></a>
+</div>
+<br>
 
-# Projects
-- [Verilog maplestory game](https://github.com/LionelSeonuk/Verilog_maplestory_game)
-- [AXI4](https://github.com/LionelSeonuk/AXI4)
-- [RISC-V](https://github.com/LionelSeonuk/RISC_V)
-
+<div align=center>
+  
+# 📅Projects📅
+[Verilog maplestory game](https://github.com/LionelSeonuk/Verilog_maplestory_game)
+<br>
+[AXI4](https://github.com/LionelSeonuk/AXI4)
+<br>
+[RISC-V](https://github.com/LionelSeonuk/RISC_V)
+</div>
 
 <div align=center>
 
@@ -28,6 +38,16 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Mobaxterm-111324?style=flat&logo=monster&logoColor=white"/></a>
 <br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/></a>
+<br>
+### Hardware
+<a href="" target="_blank"><img src="https://img.shields.io/badge/FPGA-34A853?style=flat&logoColor=white"/></a>
+<br>
+### Soc
+<a href="" target="_blank"><img src="https://img.shields.io/badge/RISC_V-283272?style=flat&logo=riscv&logoColor=white"/></a>
+<br>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/AXI-0091BD?style=flat&logo=arm&logoColor=white"/></a>
+<br>
+
 # 🛠Tools🛠
 
 ### IDE
