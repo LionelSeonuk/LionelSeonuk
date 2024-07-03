@@ -35,7 +35,7 @@
 # 📚Tech Stack📚
 
 ### Language
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 <br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></a>
 <br>
@@ -44,41 +44,41 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Verilog-ff0000?style=flat&logo=amd&logoColor=white"/></a>
 <br>
 ### Terminal & OS
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Centos-262577?style=flat&logo=centos&logoColor=white"/></a>
+<a href="https://www.centos.org/" target="_blank"><img src="https://img.shields.io/badge/Centos-262577?style=flat&logo=centos&logoColor=white"/></a>
 <br>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Mobaxterm-111324?style=flat&logo=monster&logoColor=white"/></a>
+<a href="https://mobaxterm.mobatek.net/" target="_blank"><img src="https://img.shields.io/badge/Mobaxterm-111324?style=flat&logo=monster&logoColor=white"/></a>
 <br>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/></a>
 <br>
 ### Hardware
-<a href="" target="_blank"><img src="https://img.shields.io/badge/FPGA-34A853?style=flat&logoColor=white"/></a>
+<a href="https://digilent.com/reference/" target="_blank"><img src="https://img.shields.io/badge/FPGA-34A853?style=flat&logoColor=white"/></a>
 <br>
 ### Soc
 <a href="" target="_blank"><img src="https://img.shields.io/badge/RISC_V-283272?style=flat&logo=riscv&logoColor=white"/></a>
 <br>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/AXI-0091BD?style=flat&logo=arm&logoColor=white"/></a>
+<a href="https://www.arm.com/" target="_blank"><img src="https://img.shields.io/badge/AXI-0091BD?style=flat&logo=arm&logoColor=white"/></a>
 <br>
 
 # 🛠Tools🛠
 
 ### IDE
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Vivado-dadc56?style=flat&logo=amd&logoColor=white"/></a>
+<a href="https://www.amd.com/en.html" target="_blank"><img src="https://img.shields.io/badge/Vivado-dadc56?style=flat&logo=amd&logoColor=white"/></a>
 <br>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Vitis-ff0000?style=flat&logo=amd&logoColor=white"/></a>
+<a href="https://www.amd.com/en.html" target="_blank"><img src="https://img.shields.io/badge/Vitis-ff0000?style=flat&logo=amd&logoColor=white"/></a>
 <br>
 ### VirtualMachine
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Virtualbox-183A61?style=flat&logo=virtualbox&logoColor=white"/></a>
+<a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/Virtualbox-183A61?style=flat&logo=virtualbox&logoColor=white"/></a>
 <br>
 ### EDA
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Design Compiler-80247B?style=flat&logo=stripe&logoColor=white"/></a>
+<a href="https://www.synopsys.com/" target="_blank"><img src="https://img.shields.io/badge/Design Compiler-80247B?style=flat&logo=stripe&logoColor=white"/></a>
 <br>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/VCS-80247B?style=flat&logo=stripe&logoColor=white"/></a>
+<a href="https://www.synopsys.com/" target="_blank"><img src="https://img.shields.io/badge/VCS-80247B?style=flat&logo=stripe&logoColor=white"/></a>
 <br>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Sentaurus-80247B?style=flat&logo=stripe&logoColor=white"/></a>
+<a href="https://www.synopsys.com/" target="_blank"><img src="https://img.shields.io/badge/Sentaurus-80247B?style=flat&logo=stripe&logoColor=white"/></a>
 <br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Virtuoso-000000?style=flat&logo=cloudera&logoColor=white"/></a>
 <br>
 ### SSH
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Tera term-F2CC38?style=flat&logo=tvtime&logoColor=white"/></a>
+<a href="https://tera-term.softonic.kr/" target="_blank"><img src="https://img.shields.io/badge/Tera term-F2CC38?style=flat&logo=tvtime&logoColor=white"/></a>
 <br>
 </div>
