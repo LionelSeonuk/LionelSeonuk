@@ -2,7 +2,7 @@
   
 # 💻AN SEONUK(Electronic Engineer)💻
 <br>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Myeongji University-003778?style=flat&logo=interactiondesignfoundation&logoColor=white"/></a>
+<a href="https://ee.mju.ac.kr/ee/index.do" target="_blank"><img src="https://img.shields.io/badge/Myeongji University-003778?style=flat&logo=interactiondesignfoundation&logoColor=white"/></a>
 </div>
 <br>
 
