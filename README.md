@@ -9,11 +9,18 @@
 <div align=center>
   
 # 📅Projects📅
-[Verilog maplestory game](https://github.com/LionelSeonuk/Verilog_maplestory_game)
+<a href="https://github.com/LionelSeonuk/Verilog_maplestory_game" target="_blank"><img src="https://img.shields.io/badge/FPGA_Maplestory_Game-181717?style=flat&logo=github&logoColor=white"/></a>
 <br>
-[AXI4](https://github.com/LionelSeonuk/AXI4)
+<a href="https://github.com/LionelSeonuk/AXI4" target="_blank"><img src="https://img.shields.io/badge/AXI4-181717?style=flat&logo=github&logoColor=white"/></a>
 <br>
-[RISC-V](https://github.com/LionelSeonuk/RISC_V)
+<a href="https://github.com/LionelSeonuk/RISC_V" target="_blank"><img src="https://img.shields.io/badge/RISC_V-181717?style=flat&logo=github&logoColor=white"/></a>
+<br>
+<a href="https://github.com/LionelSeonuk/Verilog_BOOTHWOOLEY_signed_multiplier" target="_blank"><img src="https://img.shields.io/badge/BOOTHWOOLEY_signed_multiplier-181717?style=flat&logo=github&logoColor=white"/></a>
+<br>
+<a href="https://github.com/LionelSeonuk/Verilog_paritybit_uart" target="_blank"><img src="https://img.shields.io/badge/Paritybit_UART-181717?style=flat&logo=github&logoColor=white"/></a>
+<br>
+<a href="https://github.com/LionelSeonuk/Image_to_rom" target="_blank"><img src="https://img.shields.io/badge/Image_to_rom-181717?style=flat&logo=github&logoColor=white"/></a>
+<br>
 </div>
 
 <div align=center>
