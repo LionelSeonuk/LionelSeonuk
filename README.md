@@ -21,6 +21,10 @@
 <br>
 <a href="https://github.com/LionelSeonuk/Image_to_rom" target="_blank"><img src="https://img.shields.io/badge/Image_to_rom-181717?style=flat&logo=github&logoColor=white"/></a>
 <br>
+<a href="https://github.com/LionelSeonuk/Card_game" target="_blank"><img src="https://img.shields.io/badge/Card_game-181717?style=flat&logo=github&logoColor=white"/></a>
+<br>
+<a href="https://github.com/LionelSeonuk/Quiz_game" target="_blank"><img src="https://img.shields.io/badge/Quiz_game-181717?style=flat&logo=github&logoColor=white"/></a>
+<br>
 </div>
 
 <div align=center>
