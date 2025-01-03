@@ -77,7 +77,7 @@
 <br>
 <a href="https://www.synopsys.com/" target="_blank"><img src="https://img.shields.io/badge/PrimeTime-80247B?style=flat&logo=stripe&logoColor=white"/></a>
 <br>
-<a href="https://www.synopsys.com/" target="_blank"><img src="https://img.shields.io/badge/IC Compiler -80247B?style=flat&logo=stripe&logoColor=white"/></a>
+<a href="https://www.synopsys.com/" target="_blank"><img src="https://img.shields.io/badge/IC CompilerⅡ -80247B?style=flat&logo=stripe&logoColor=white"/></a>
 <br>
 <a href="https://www.synopsys.com/" target="_blank"><img src="https://img.shields.io/badge/Sentaurus-80247B?style=flat&logo=stripe&logoColor=white"/></a>
 <br>
