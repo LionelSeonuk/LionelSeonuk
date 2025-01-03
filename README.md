@@ -75,6 +75,10 @@
 <br>
 <a href="https://www.synopsys.com/" target="_blank"><img src="https://img.shields.io/badge/VCS-80247B?style=flat&logo=stripe&logoColor=white"/></a>
 <br>
+<a href="https://www.synopsys.com/" target="_blank"><img src="https://img.shields.io/badge/PrimeTime-80247B?style=flat&logo=stripe&logoColor=white"/></a>
+<br>
+<a href="https://www.synopsys.com/" target="_blank"><img src="https://img.shields.io/badge/IC Compiler -80247B?style=flat&logo=stripe&logoColor=white"/></a>
+<br>
 <a href="https://www.synopsys.com/" target="_blank"><img src="https://img.shields.io/badge/Sentaurus-80247B?style=flat&logo=stripe&logoColor=white"/></a>
 <br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Virtuoso-000000?style=flat&logo=cloudera&logoColor=white"/></a>
