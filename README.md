@@ -1,6 +1,6 @@
 <div align=center>
   
-# 💻AN SEONUK(Electronic Engineer)💻
+# 💻AN SEONUK(Semiconductor Design Engineer)💻
 <br>
 <a href="https://ee.mju.ac.kr/ee/index.do" target="_blank"><img src="https://img.shields.io/badge/Myeongji University-003778?style=flat&logo=interactiondesignfoundation&logoColor=white"/></a>
 <div align=center>
