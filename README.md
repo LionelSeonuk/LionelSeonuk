@@ -6,7 +6,7 @@
 <div align=center>
 <a href="https://github.com/LionelSeonuk/A-Certificate-of-Completion" target="_blank"><img src="https://img.shields.io/badge/A_Certificate_of_Completion-003778?style=flat&logo=interactiondesignfoundation&logoColor=white"/></a>
 </div>
-<a href="https://www.gachon.ac.kr/sites/ssd/index.do" target="_blank"><img src="https://img.shields.io/badge/Gachon Graduate School-0E39A9?style=flat&logo=greatlearning&logoColor=white"/></a> 
+//<a href="https://www.gachon.ac.kr/sites/ssd/index.do" target="_blank"><img src="https://img.shields.io/badge/Gachon Graduate School-0E39A9?style=flat&logo=greatlearning&logoColor=white"/></a> 
 <div align=center>
   
 # 📅Projects📅
